@@ -16,12 +16,11 @@ I'm a web developer from Brazil, interacting with the web @portfolio.
 
 ### What I do
 
-I am a web developer who specializes in building websites. As a practice,
-I try to avoid using third-party libraries in my projects. For instance, 
-in my MPA project, I use NodeJS to make requests and store user data in a 
-dedicated folder. Web development is my passion, and I find it fascinating
-to utilize the tools and resources that people have put so much effort into
-creating.
+I specialize in creating websites, and I prioritize writing clean code
+in my projects. As a practice, I avoid using third-party libraries in 
+my study cases. Web development is my passion, and I believe that utilizing
+the tools and resources that people have spent so much effort creating is 
+truly amazing.
 
 ## My skills 📜
 
