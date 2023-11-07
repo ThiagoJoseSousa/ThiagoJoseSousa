@@ -36,7 +36,7 @@ truly amazing.
 - Git
 
 ### Productivity utilities
-
+- Compassionate communication
 - Advanced Excel and VBA
 - Word
 
