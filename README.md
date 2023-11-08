@@ -1,4 +1,4 @@
-# Hi, nice to see you.
+# Hey, nice to see you.
 
 I'm a web developer from Brazil, interacting with the web @portfolio.
 
