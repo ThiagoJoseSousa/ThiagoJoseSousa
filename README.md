@@ -1,4 +1,4 @@
-# Hi everyone :wave:
+# Hi, nice to see you.
 
 I'm a web developer from Brazil, interacting with the web @portfolio.
 
