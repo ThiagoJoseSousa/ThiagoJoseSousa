@@ -44,8 +44,8 @@ truly amazing.
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | C2 ([DET])                                                                 |
 | Portuguese    | Native language                                                           |
+| English       | C2 ([DET])                                                                |
 | Spanish       | B1                                                                        |
 | Mandarin      | HSK1                                                                      |
 
