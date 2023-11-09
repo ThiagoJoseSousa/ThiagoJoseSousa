@@ -1,6 +1,6 @@
 # Hey, nice to see you.
 
-I'm a web developer from Brazil, enjoying the web [portfolio](https://thiagojosesousa.netlify.app/).
+I'm a web developer from Brazil, enjoying the web. [Portfolio](https://thiagojosesousa.netlify.app/).
 
 <details>
 <summary>
