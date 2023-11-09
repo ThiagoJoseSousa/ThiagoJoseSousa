@@ -31,6 +31,7 @@ truly amazing.
 - JavaScript
 - HTML5, CSS3
 - SCSS
+- UX
 - NodeJS
 - NPM
 - Git
