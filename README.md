@@ -1,6 +1,6 @@
 # Hey, nice to see you.
 
-I'm a web developer from Brazil, enjoying the web. [Portfolio](https://thiagojosesousa.netlify.app/).
+As someone who creates content and manages social media, I have always had a user-centric mindset. This led me to transition into freelancing in Front-End development. Over the past 2 years, I have learned to develop seamless digital experiences that blend both aesthetics and functionality to create a satisfying user experience. [Portfolio](https://thiagojosesousa.netlify.app/).
 
 <details>
 <summary>
