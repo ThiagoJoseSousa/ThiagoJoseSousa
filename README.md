@@ -1,4 +1,4 @@
-# Hey, nice to see you.
+# Hey, nice to see you 🤝
 
 As someone who creates content and manages social media, I have always had a user-centric mindset. This led me to transition into freelancing in Front-End development. Over the past 1.5 years, I have learned to develop seamless digital experiences that blend both aesthetics and functionality to create a satisfying user experience. [Portfolio](https://thiagojosesousa.netlify.app/).
 
