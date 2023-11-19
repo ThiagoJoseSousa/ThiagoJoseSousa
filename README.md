@@ -26,15 +26,17 @@ truly amazing.
 
 ### Web technologies
 
-- Firebase
 - React
-- JavaScript
-- HTML5, CSS3
+- Firebase
 - SCSS
+- Jquery
+- Bootstrap5
+- Webpack
+- JavaScript
 - UX
-- NodeJS
-- NPM
 - Git
+- NPM
+- HTML5, CSS3
 
 ### Productivity utilities
 - Compassionate communication
@@ -52,8 +54,6 @@ truly amazing.
 
 ## What I'm currently learning 📚
 
-- Cleaner and advanced CSS
-- SCSS functions
-- React hooks
+- Redux toolkit
 
 </details>
