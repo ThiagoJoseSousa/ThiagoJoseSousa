@@ -52,6 +52,6 @@ Utilizing the tools and resources created by others is truly amazing, and I beli
 
 ## What I'm currently learning 📚
 
-- Redux toolkit
+- Next.js
 
 </details>
