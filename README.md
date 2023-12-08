@@ -1,6 +1,6 @@
 # Hey, nice to see you 🤝
 
-As someone who creates content and manages social media, I have always had a user-centric mindset. This led me to transition into freelancing in Front-End development. Over the past 1.5 years, I have learned to develop seamless digital experiences that blend both aesthetics and functionality to create a satisfying user experience. [Portfolio](https://thiagojosesousa.netlify.app/).
+Did you know that the first website was created in 1991? It's amazing to think about how far we've come since then! [Portfolio](https://thiagojosesousa.netlify.app/).
 
 <details>
 <summary>
@@ -15,27 +15,25 @@ As someone who creates content and manages social media, I have always had a use
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ThiagoJoseSousa&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 
 ### What I do
+I'm a web developer with a focus on crafting clean, testable, and high-quality code. 
+I love reading documentation to stay up-to-date with the latest trends and best practices in the industry. 
+Utilizing the tools and resources created by others is truly amazing, and I believe in harnessing their power to bring my projects to life. 
 
-I specialize in creating websites, and I prioritize writing clean code
-in my projects. As a practice, I avoid using third-party libraries in 
-my study cases. Web development is my passion, and I believe that utilizing
-the tools and resources that people have spent so much effort creating is 
-truly amazing.
 
 ## My skills 📜
 
 ### Web technologies
-
+- Next.JS
+- Jest/TDD
 - React
+- Jquery
 - Firebase
 - SCSS
-- Jquery
+- TailWindCSS
 - Bootstrap5
 - Webpack
 - JavaScript
-- UX
 - Git
-- NPM
 - HTML5, CSS3
 
 ### Productivity utilities
